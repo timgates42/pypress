@@ -2044,7 +2044,7 @@ class Api(object):
             Returns results with an ID greater than (that is, more recent
             than) the specified ID. There are limits to the number of
             Tweets which can be accessed through the API. If the limit of
-            Tweets has occured since the since_id, the since_id will be
+            Tweets has occurred since the since_id, the since_id will be
             forced to the oldest ID available. [Optional]
           include_rts:
             If True, the timeline will contain native retweets (if they
@@ -2088,7 +2088,7 @@ class Api(object):
             Returns results with an ID greater than (that is, more recent
             than) the specified ID. There are limits to the number of
             Tweets which can be accessed through the API. If the limit of
-            Tweets has occured since the since_id, the since_id will be
+            Tweets has occurred since the since_id, the since_id will be
             forced to the oldest ID available. [Optional]
 
         Returns:
@@ -2122,7 +2122,7 @@ class Api(object):
             Returns results with an ID greater than (that is, more recent
             than) the specified ID. There are limits to the number of
             Tweets which can be accessed through the API. If the limit of
-            Tweets has occured since the since_id, the since_id will be
+            Tweets has occurred since the since_id, the since_id will be
             forced to the oldest ID available. [Optional]
           geocode:
             geolocation information in the form (latitude, longitude, radius)
@@ -2311,7 +2311,7 @@ class Api(object):
             Returns results with an ID greater than (that is, more recent
             than) the specified ID. There are limits to the number of
             Tweets which can be accessed through the API. If the limit of
-            Tweets has occured since the since_id, the since_id will be
+            Tweets has occurred since the since_id, the since_id will be
             forced to the oldest ID available. [Optional]
           retweets:
             If True, the timeline will contain native retweets. [Optional]
@@ -2385,7 +2385,7 @@ class Api(object):
             Returns results with an ID greater than (that is, more recent
             than) the specified ID. There are limits to the number of
             Tweets which can be accessed through the API. If the limit of
-            Tweets has occured since the since_id, the since_id will be
+            Tweets has occurred since the since_id, the since_id will be
             forced to the oldest ID available. [Optional]
           max_id:
             Returns only statuses with an ID less than (that is, older
@@ -2590,7 +2590,7 @@ class Api(object):
              Returns results with an ID greater than (that is, more recent
              than) the specified ID. There are limits to the number of
              Tweets which can be accessed through the API. If the limit of
-             Tweets has occured since the since_id, the since_id will be
+             Tweets has occurred since the since_id, the since_id will be
              forced to the oldest ID available. [Optional]
            max_id:
              Returns results with an ID less than (that is, older than) or
@@ -2635,7 +2635,7 @@ class Api(object):
             Returns results with an ID greater than (that is, more recent
             than) the specified ID. There are limits to the number of
             Tweets which can be accessed through the API. If the limit of
-            Tweets has occured since the since_id, the since_id will be
+            Tweets has occurred since the since_id, the since_id will be
             forced to the oldest ID available. [Optional]
           page:
             Specifies the page of results to retrieve.
@@ -2861,7 +2861,7 @@ class Api(object):
             Returns results with an ID greater than (that is, more recent
             than) the specified ID. There are limits to the number of
             Tweets which can be accessed through the API. If the limit of
-            Tweets has occured since the since_id, the since_id will be
+            Tweets has occurred since the since_id, the since_id will be
             forced to the oldest ID available. [Optional]
           page:
             Specifies the page of results to retrieve.
@@ -3037,7 +3037,7 @@ class Api(object):
             Returns results with an ID greater than (that is, more recent
             than) the specified ID. There are limits to the number of
             Tweets which can be accessed through the API. If the limit of
-            Tweets has occured since the since_id, the since_id will be
+            Tweets has occurred since the since_id, the since_id will be
             forced to the oldest ID available. [Optional]
           max_id:
             Returns only statuses with an ID less than
